@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hdfnjkv", "hdfnjkv\hdfnjkv.csproj", "{8150B022-9F10-4094-8114-1C2CC47D7062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8150B022-9F10-4094-8114-1C2CC47D7062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8150B022-9F10-4094-8114-1C2CC47D7062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8150B022-9F10-4094-8114-1C2CC47D7062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8150B022-9F10-4094-8114-1C2CC47D7062}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CD7DE50-F9E1-425D-85DA-243B6242E258}
+	EndGlobalSection
+EndGlobal
